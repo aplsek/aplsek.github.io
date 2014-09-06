@@ -1,0 +1,15 @@
+@INPROCEEDINGS{Plsek06-msthesis,
+  author = {Aleš Plšek},
+  month = {September},
+  date = {September 5},
+  location = {Prague, Czech Republic},
+  year = 2006,
+  title = {Extending Java PathFinder with Behavior Protocols},
+  booktitle = {},
+  publisher = {},
+  editor = {Advisor: Jiøí Adámek},
+  language = {english},
+  kind = {},
+  abstract = {}
+}
+

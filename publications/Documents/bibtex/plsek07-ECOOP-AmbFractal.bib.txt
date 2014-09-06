@@ -1,0 +1,23 @@
+@INPROCEEDINGS{Plsek07-ECOOP-AmbFractal,
+  author = {Aleš Plšek, Philippe Merle, Lionel Seinturier},
+  month = {July},
+  date = {July 25-30},
+  location = {Berlin, Germany},
+  year = 2007,
+  title = {Ambient-Oriented Programming in Fractal},
+  booktitle = {Proceedings of the $3^{rd}$ Workshop on Object Technology for Ambient Intelligence at ECOOP},
+  publisher = {},
+  editor = {},
+  language = {english},
+  kind = {},
+  abstract = {Ambient-Oriented Programming (AmOP) comprises a suite of challenges
+that are hard to meet by current software development techniques.
+Although Component-Oriented Programming (COP) represents promising
+approach, the state-of-the-art component models do not provide
+sufficient adaptability towards specific constraints of the Ambient
+field. In this position paper we argue that merging AmOP and COP can
+be achieved by introducing the Fractal component model and its new
+feature : Component-Based Controlling Membranes. The proposed
+solution allows dynamical adaptation of component systems towards
+the challenges of the Ambient world.}
+}

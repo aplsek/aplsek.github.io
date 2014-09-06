@@ -1,0 +1,16 @@
+@INPROCEEDINGS{Plsek08-ISORC,
+  author = {Aleš Plšek, Jiøí Adámek},
+  month = {October},
+  date = {October 22},
+  location = {Karlsruhe, Germany},
+  year = 2008,
+  title = {{Carmen: Software Component Model Checker}},
+  booktitle = {Proceedings of the $4^{th}$ International Conference on the Quality of Software-Architectures (QoSA 2008)},
+  publisher = {LNCS},
+  editor = {},
+  language = {english},
+  kind = {},
+  abstract = {}
+}
+
+
