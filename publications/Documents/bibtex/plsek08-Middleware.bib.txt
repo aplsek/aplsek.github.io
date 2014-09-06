@@ -1,0 +1,16 @@
+@INPROCEEDINGS{Plsek08-Middleware,
+  author = {Aleš Plšek, Frédéric Loiret, Philippe Merle, Lionel Seinturier},
+  month = {December},
+  date = {December},
+  location = {},
+  year = 2008,
+  title = {{A Component Framework for Java-based Real-time Embedded Systems}},
+  booktitle = {In Proceedings of ACM/IFIP/USENIX 9th International Middleware Conference, December 2008, Leuven, Belgium.},
+  publisher = {},
+  editor = {},
+  language = {english},
+  kind = {},
+  abstract = {}
+}
+
+

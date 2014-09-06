@@ -1,0 +1,32 @@
+@INPROCEEDINGS{Plsek08-ISORC,
+  author = {Aleš Plšek, Philippe Merle, Lionel Seinturier},
+  month = {May},
+  date = {May 5-7},
+  location = {Orlando, Florida, USA},
+  year = 2008,
+  title = {{A Real-Time Java Component Model}},
+  booktitle = {Proceedings of the $11^{th}$International Symposium on Object/Component/Service-oriented Real-Time Distributed Computing (ISORC'08)},
+  publisher = {IEEE CS Press},
+  editor = {},
+  language = {english},
+  kind = {},
+  abstract = {Real-Time Specification for Java (RTSJ) is becoming
+a popular choice in the world of real-time programming.
+However, the complexities introduced by RTSJ bring
+needs for an extensive framework comprising all the aspects
+of RTSJ development. As the first contribution of this
+paper we present a real-time component model directly fitting
+the needs of RTSJ. Our motivation is to clearly separate
+real-time and business concerns of applications. We
+further argue that RTSJ concerns need to be considered at
+early stages of architecture design in order to mitigate the
+complexities of the implementation phase. Therefore, as our
+second contribution, we propose a design process introducing
+gradually RTSJ concepts into the architecture. We are
+thus able to alleviate the development of real-time systems
+and to tailor them for different real-time conditions. Finally,
+we demonstrate the feasibility of our solution on an example
+scenario.}
+}
+
+
